@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+label {
+    font-weight: 500;
+}
+
+h1 {
+    font-family: 'Prata', serif;
+    color: #292929;
+}
+
+h2,
+p {
+    font-family: 'Montserrat', sans-serif;
+    color: #292929;
+
+}
